@@ -36,7 +36,7 @@ Usar tom educativo e linguagem acessível, em português.
 
 ### Tela do App
 
-<img width="874" height="446" alt="image" src="https://github.com/user-attachments/assets/98919c0a-310d-4fb0-8d8d-a9a70f65b309" />
+<img width="874"🤖height="446" alt="image" src="https://github.com/user-attachments/assets/98919c0a-310d-4fb0-8d8d-a9a70f65b309" />
 
 ### Testes com outras versões de UX/UI
 
@@ -53,3 +53,7 @@ Usar tom educativo e linguagem acessível, em português.
 ## 💬 Conclusão
 
 O Vibe Coding se mostra eficiente para iniciar um projeto do zero. Um pouco de conhecimento de programação e experiência profissinal com certeza ajuda na clareza de ideia e definição do prompt. Iniciar pelo simples e depois implementar mais funcionalidades como integração com bancos e automações.
+
+## Para testar
+
+https://finantest.base44.app
