@@ -36,7 +36,8 @@ Usar tom educativo e linguagem acessível, em português.
 
 ### Tela do App
 
-<img width="874"🤖height="446" alt="image" src="https://github.com/user-attachments/assets/98919c0a-310d-4fb0-8d8d-a9a70f65b309" />
+<img width="874" height="446" alt="image" src="https://github.com/user-attachments/assets/ddc7a3e2-a7e5-4520-96b1-772c7b38c124" />
+
 
 ### Testes com outras versões de UX/UI
 
